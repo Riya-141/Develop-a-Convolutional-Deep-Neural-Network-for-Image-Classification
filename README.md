@@ -7,8 +7,7 @@ To develop a convolutional deep neural network (CNN) for image classification an
 Image classification is a fundamental task in computer vision where an input image is assigned to one of several predefined classes. The objective of this experiment is to build and train a Convolutional Neural Network (CNN) using a labeled image dataset and evaluate its performance using accuracy, confusion matrix, and classification report.
 
 ## Neural Network Model
-<img width="1145" height="740" alt="Screenshot 2026-05-12 103818" src="https://github.com/user-attachments/assets/ba4a8e84-ee12-484c-93ae-84d528d59f0d" />
-
+<img width="1749" height="903" alt="Screenshot 2026-05-12 162328" src="https://github.com/user-attachments/assets/d1245bc3-f06e-4088-bcd7-00c69df2eece" />
 
 ## DESIGN STEPS
 ### STEP 1: 
